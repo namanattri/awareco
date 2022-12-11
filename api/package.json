@@ -27,7 +27,7 @@
         "bcrypt-nodejs": "0.0.3",
         "dotenv": "^8.2.0",
         "errorhandler": "^1.5.1",
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "lodash": "^4.17.15",
         "mongoose": "^5.7.13",
         "winston": "^3.2.1"
